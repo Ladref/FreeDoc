@@ -1,13 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+By running ```rails console``` you will have access to my FreeDoc Database.
+Then you must do:
 
-Things you may want to cover:
+* Bundle install
 
-* Ruby version
-
-* System dependencies
+* Run the following command: ```rails db:migrate```
 
 * Configuration
 

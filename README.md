@@ -7,16 +7,6 @@ Then you must do:
 
 * Run the following command: ```rails db:migrate```
 
-* Configuration
+* Then: ```rails db:seed```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Finally, you will have access to all the data
